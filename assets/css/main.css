@@ -67,6 +67,10 @@ ul li {
 	margin: 0 0 3px 0;
 }
 
+.answer {
+	padding: 20px    
+}
+
 /* Landscape smartphone */
 @media screen and (min-width: 480px) {
     #wrapper {
